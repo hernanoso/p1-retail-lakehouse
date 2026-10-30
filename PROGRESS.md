@@ -3,7 +3,7 @@
 Mark each item with `[x]` when the tutor has reviewed it.
 
 ## Step 0 · Setup
-- [ ] Git repo initialised with Hernan's author config and pushed to GitHub (public)
+- [x] Git repo initialised with Hernan's author config and pushed to GitHub (public)
 - [ ] Personal Azure account and subscription (not an employer's)
 - [ ] Budget alert created in Cost Management
 - [ ] Resource group created
