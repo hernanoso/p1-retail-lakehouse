@@ -1,0 +1,21 @@
+# Secrets and local settings
+.env
+.env.*
+*.publishsettings
+local.settings.json
+*.pem
+*.key
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Data pulled locally while testing (the lake lives in Azure)
+data/
+*.parquet
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
